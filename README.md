@@ -12,8 +12,7 @@ This project uses Convolutional Neural Networks (CNN) to diagnose Alzheimer's di
 ## Project Structure
 
 ```
-├── Alzheimer Dataset/                    # Original dataset
-├── Alzheimer Dataset (Augmented)/        # Augmented dataset
+├── images/                              # Image for README description
 ├── cnn_custom_model_v3.ipynb            # Custom CNN model training notebook
 ├── transfer_learning_models.ipynb       # Transfer learning experiments notebook
 ├── test_saved_model.ipynb               # Saved model testing notebook
